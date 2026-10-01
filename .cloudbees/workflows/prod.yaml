@@ -10,4 +10,4 @@ jobs:
         with:
           labels: newsmantest
           artifact-id: 7ff40121-8d45-4c75-9877-7c36ceda4093
-          target-environment: aspm-prod
+          target-environment: pre-prod-env
